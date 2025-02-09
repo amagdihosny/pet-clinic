@@ -40,6 +40,17 @@
 		<url>https://github.com/amagdihosny/pet-clinic</url>
 	</scm>
 
+	<distributionManagement>
+		<repository>
+			<id>release-repo</id>
+			<url>https://github.com/amagdihosny/pet-clinic/releases</url>
+		</repository>
+		<snapshotRepository>
+			<id>snapshot-repo</id>
+			<url>https://github.com/amagdihosny/pet-clinic/snapshots</url>
+		</snapshotRepository>
+	</distributionManagement>
+
 	<build>
 		<plugins>
 			<plugin>
