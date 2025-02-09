@@ -43,11 +43,11 @@
 	<distributionManagement>
 		<repository>
 			<id>release-repo</id>
-			<url>https://github.com/amagdihosny/pet-clinic/releases</url>
+			<url>https://github.com/amagdihosny/pet-clinic/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot-repo</id>
-			<url>https://github.com/amagdihosny/pet-clinic/snapshots</url>
+			<url>https://github.com/amagdihosny/pet-clinic/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
